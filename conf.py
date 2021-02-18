@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'GIT_HUB_DOCUMENTATION'
-copyright = '2021, GADDE SAI GOPAL'
-author = 'GADDE SAI GOPAL'
+copyright = '2021, Yamini'
+author = 'A.Yamini'
 
 # The full version, including alpha/beta/rc tags
 release = '12345'
