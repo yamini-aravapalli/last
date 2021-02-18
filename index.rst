@@ -9,7 +9,7 @@ Welcome to GIT_HUB_DOCUMENTATION's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+file1.md
 
 
 Indices and tables
